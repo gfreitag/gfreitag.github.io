@@ -1,7 +1,7 @@
 # Site
 title:              Greta Freitag's Code Adventures
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+bio:                'A website and blog detailing my progress as an aspiring developer'
+description:        "A website and blog detailing my progress as an aspiring developer"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -17,8 +17,8 @@ instagram:          default
 github:             default
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
+location:           Montreal, QC
+phone:              619-772-7727
 email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
