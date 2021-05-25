@@ -11,13 +11,13 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            d/Applicationsefault
+twitter:            default
 facebook:           default
 instagram:          default
-github:             default
+github:             "gfreitag"
 
 # personal
-location:           Montreal, QC
+location:           Montreal, QC/ San Diego CA
 phone:              619-772-7727
 email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
