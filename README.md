@@ -1,2 +1,3 @@
 # gfreitag.github.io
-Theme credits: https://github.com/jekyllup/jekyll-theme-massively
+
+Currently in the process of revamping my website with Gatsby. WIP
