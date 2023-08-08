@@ -1,2 +1,2 @@
 # gfreitag.github.io
-This is a work in progress at the moment, designing from scratch.
+Theme credits: https://github.com/jekyllup/jekyll-theme-massively
